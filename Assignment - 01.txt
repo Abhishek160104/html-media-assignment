@@ -1,0 +1,53 @@
+Assignment - 01
+   
+
+
+ Q 1 -  Why do we need programming languages?
+  Ans - Programing language is essential tools that allow human to communication instruction to computes in a way that the computers can understand and
+        execute. Here are some key reasons why we need programing languages:
+        1- Automation;
+        2- Problem- Solving
+        3- Software development
+        4- Haedware control
+        5-Data manipulation
+        6- Communication
+
+Q 2-   How do programming languages facilitate communication between humans and computers?
+ Ans - Programming language server as a bridge between humans and computers, enabling us to communicate our instruction and intentions to these machine in a           
+       way they can understand and excute. here's how prgraming language facilitae this communication.
+       1- Structured syntax;
+       2- Abstraction
+       3- Complilers and interpreters.
+       4- Libaries and framework
+       5- Debugging and error handling
+       6- Documentation and community
+
+Q 3-  What role do programming languages play in software development?
+Ans - Programing language play a crucial role in software development to writer instruction that computers can write instruction that computers can understand 
+      and execute . the role of programming languages play in software development can be summarized as follow;
+      1- translations
+      2- Abstraction 
+      3-Portability
+      4- Resuability
+      5- Software Architecture
+      6- Community and Ecosystem
+
+Q 4  How do programming languages contribute to innovation in technology?
+Ans -Programming play  crucial role in deriving technological innovation by providing the fundamental tools and framework for developing software                                                                     applicaton, system ans solution across various domains. Here are some way in which programming language contribute to innovation in technology ;
+     1- Enabling new Software solution
+     2- Facilitating efficient problem-solving
+     3- Rapid prototyping and iteration
+     4- Domain-specific language
+     5- Promoting collaboration and open-source development
+     6- Enabling new hardware and technology integration
+
+Q 5-Explain the role of the operating system in computer organization?
+Ans - The operating system play a crucial role in computer organiation and serves as the intermediary between the hard componets & plication                
+      software . Here are the key roles of an operating system in computer orgation;
+   1- Resource Mangement
+   2- Menmory Management
+   3- Process Mangement
+   4- Input/Output Mangement
+   5- File Mangenmet
+   6- Security and protection
+      

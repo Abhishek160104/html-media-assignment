@@ -1,6 +1,7 @@
 Assignment - 01
    
-
+                Fundamentals
+                            Of Computer
 
  Q 1 -  Why do we need programming languages?
   Ans - Programing language is essential tools that allow human to communication instruction to computes in a way that the computers can understand and
